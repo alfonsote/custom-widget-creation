@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "antd": "latest"
+  },
+  "keywords": [
+    "custom idget"
+  ],
+  "name": "custom-widget",
+  "description": ""
+}
